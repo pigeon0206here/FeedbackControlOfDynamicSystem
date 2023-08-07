@@ -1,2 +1,2 @@
 # FeedbackControlOfDynamicSystem
-跟哥们一起来学自动控制原理🤪
+电赛2023相关文件存放处。

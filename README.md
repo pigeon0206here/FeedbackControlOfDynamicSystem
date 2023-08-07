@@ -1,2 +1,2 @@
-# FeedbackControlOfDynamicSystem
+# NUEDC全国大学生电子设计竞赛
 电赛2023相关文件存放处。
